@@ -69,12 +69,13 @@ learn by shipping projects that solve practical problems.
 ## `[02] INSPECT TECHNOLOGY STACK`
 
 ```text
-+------------+-----------------------------------------------------+
-| FRONTEND   | TypeScript / JavaScript / React / Next.js           |
-| BACKEND    | Python / FastAPI / REST / JWT / WebSockets          |
-| DATABASE   | SQL / PostgreSQL / SQLAlchemy ORM                    |
-| WORKFLOW   | Git / GitHub / Docker / Docker Compose              |
-+------------+-----------------------------------------------------+
++------------+--------------------------------------------------------+
+| FRONTEND   | HTML / CSS / JavaScript                                |
+| BACKEND    | Node.js / Express.js / REST api / JWT / WebSockets     |
+| DATABASE   | MySQL / PostgreSQL / SQLite                            |
+| WORKFLOW   | Git / GitHub / Docker / Docker Compose                 |
+| LEARNING   | TypeScript / React / Next.js                           |
++------------+--------------------------------------------------------+
 ```
 
 <div align="center">
@@ -103,20 +104,8 @@ ORDER BY practice DESC;
 ```text
 > learning.status
 
-[ ACTIVE ]  deeper SQL and database design
-[ ACTIVE ]  backend architecture and API design
-[ ACTIVE ]  clean, maintainable TypeScript
+[ ACTIVE ]  practical SQL and relational database development
+[ ACTIVE ]  React fundamentals and component-based interfaces
+[ QUEUED ]  clean, maintainable TypeScript
 [ QUEUED ]  the next useful product
 ```
-
-```console
-kanaye@github:~$ git commit -m "keep building"
-[main] build. break. learn. repeat.
-```
-
-<div align="center">
-  <code>ENTER</code>&nbsp; Open project&nbsp;&nbsp;&nbsp;
-  <code>↑↓</code>&nbsp; Navigate&nbsp;&nbsp;&nbsp;
-  <code>/</code>&nbsp; Search&nbsp;&nbsp;&nbsp;
-  <code>ESC</code>&nbsp; Close
-</div>
