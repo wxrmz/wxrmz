@@ -72,13 +72,6 @@ learn by shipping projects that solve practical problems.
   <img src="./kanaye-technology-stack.png" width="100%" alt="Kanaye technology stack" />
 </div>
 
-```sql
-SELECT skill, progress
-FROM learning
-WHERE focus IN ('SQL', 'backend', 'clean TypeScript')
-ORDER BY practice DESC;
-```
-
 ## `[03] VIEW ACTIVITY`
 
 <div align="center">
