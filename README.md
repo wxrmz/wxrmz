@@ -101,11 +101,6 @@ ORDER BY practice DESC;
 
 ## `[04] KEEP LEARNING`
 
-```text
-> learning.status
-
-[ ACTIVE ]  practical SQL and relational database development
-[ ACTIVE ]  React fundamentals and component-based interfaces
-[ QUEUED ]  clean, maintainable TypeScript
-[ QUEUED ]  the next useful product
-```
+<div align="center">
+  <img src="./kanaye-learning-status.png" width="100%" alt="Kanaye learning status: active and queued skills" />
+</div>
