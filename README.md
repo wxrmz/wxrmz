@@ -95,7 +95,7 @@ ORDER BY practice DESC;
 ## `[03] VIEW ACTIVITY`
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wxrmz&bg_color=00000000&color=8f8f8f&line=f0f0f0&point=ffffff&area=true&area_color=333333&hide_border=true" width="100%" alt="Contribution activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wxrmz&bg_color=00000000&color=8f8f8f&line=f0f0f0&point=ffffff&area=true&area_color=333333&hide_border=true&hide_title=true" width="100%" alt="Contribution activity graph" />
 </div>
 
 ## `[04] KEEP LEARNING`
