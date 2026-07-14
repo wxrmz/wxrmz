@@ -3,7 +3,7 @@
 
   <br />
 
-  <code>JUNIOR FULL-STACK DEVELOPER</code>&nbsp;&nbsp;<code>SQL / BACKEND</code>&nbsp;&nbsp;<code>VLADIVOSTOK</code>
+  
 </div>
 
 ## `[00] KANAYE: OPEN PROFILE`
