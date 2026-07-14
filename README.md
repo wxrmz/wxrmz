@@ -8,17 +8,9 @@
 
 ## `[00] KANAYE: OPEN PROFILE`
 
-```text
-+------------------------------------------------------------------+
-| USER       kanaye / wxrmz                                       |
-| ROLE       junior web developer + SQL developer                  |
-| FOCUS      full-stack applications / relational databases        |
-| LOOP       build -> test -> learn -> improve                     |
-+------------------------------------------------------------------+
-```
-
-I turn ideas into working web products, connect interfaces to real data and
-learn by shipping projects that solve practical problems.
+<div align="center">
+  <img src="./kanaye-profile-summary.png" width="100%" alt="Kanaye profile summary" />
+</div>
 
 ## `[01] EXPLORE MAIN PROJECTS`
 
