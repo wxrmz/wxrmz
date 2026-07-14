@@ -20,7 +20,7 @@
 I turn ideas into working web products, connect interfaces to real data and
 learn by shipping projects that solve practical problems.
 
-## `[01] EXPLORE PROJECTS`
+## `[01] EXPLORE MAIN PROJECTS`
 
 ### `> 01 / CODECOLLAB`
 
@@ -68,22 +68,8 @@ learn by shipping projects that solve practical problems.
 
 ## `[02] INSPECT TECHNOLOGY STACK`
 
-```text
-+------------+--------------------------------------------------------+
-| FRONTEND   | HTML / CSS / JavaScript                                |
-| BACKEND    | Node.js / Express.js / REST api / JWT / WebSockets     |
-| DATABASE   | MySQL / PostgreSQL / SQLite                            |
-| WORKFLOW   | Git / GitHub / Docker / Docker Compose                 |
-| LEARNING   | TypeScript / React / Next.js                           |
-+------------+--------------------------------------------------------+
-```
-
 <div align="center">
-  <img src="https://img.shields.io/badge/TYPE_SCRIPT-111111?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/NEXT.JS-111111?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/FAST_API-111111?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/POSTGRESQL-111111?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/DOCKER-111111?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="./kanaye-technology-stack.png" width="100%" alt="Kanaye technology stack" />
 </div>
 
 ```sql
