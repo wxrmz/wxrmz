@@ -9,7 +9,7 @@
 ## `[00] KANAYE: OPEN PROFILE`
 
 <div align="center">
-  <img src="./kanaye-profile-summary.png" width="100%" alt="Kanaye profile summary" />
+  <img src="./kanaye-profile-summary-v2.png" width="100%" alt="Kanaye profile summary" />
 </div>
 
 ## `[01] EXPLORE MAIN PROJECTS`
@@ -61,7 +61,7 @@
 ## `[02] INSPECT TECHNOLOGY STACK`
 
 <div align="center">
-  <img src="./kanaye-technology-stack.png" width="100%" alt="Kanaye technology stack" />
+  <img src="./kanaye-technology-stack-v2.png" width="100%" alt="Kanaye technology stack" />
 </div>
 
 ## `[03] VIEW ACTIVITY`
@@ -73,5 +73,5 @@
 ## `[04] KEEP LEARNING`
 
 <div align="center">
-  <img src="./kanaye-learning-status.png" width="100%" alt="Kanaye learning status: active and queued skills" />
+  <img src="./kanaye-learning-status-v2.png" width="100%" alt="Kanaye learning status: active and queued skills" />
 </div>
