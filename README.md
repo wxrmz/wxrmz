@@ -2,8 +2,6 @@
   <img src="./kanaye-command-palette-bw.png" width="100%" alt="Kanaye command palette profile banner" />
 
   <br />
-
-  
 </div>
 
 ## `[00] KANAYE: OPEN PROFILE`
@@ -14,49 +12,9 @@
 
 ## `[01] EXPLORE MAIN PROJECTS`
 
-### `> 01 / CODECOLLAB`
-
-> Collaborative browser workspace for writing, running and reviewing code.
-
-```text
-+----------------+        +----------------+        +----------------+
-|  DEVELOPER A   | <----> | SOCKET.IO ROOM | <----> |  DEVELOPER B   |
-+----------------+        +----------------+        +----------------+
-                              |
-                       +------v-------+
-                       | FASTAPI/REST |
-                       +------+-------+
-                              |
-                       +------v-------+
-                       |  POSTGRESQL  |
-                       +--------------+
-```
-
-`[ MONACO EDITOR ]` `[ REAL-TIME COMMENTS ]` `[ STATIC ANALYSIS ]` `[ CODE EXECUTION ]`
-
-**STACK** &nbsp; `Next.js` `TypeScript` `FastAPI` `PostgreSQL` `SQLAlchemy` `Docker`
-
-[![ENTER — OPEN CODECOLLAB](https://img.shields.io/badge/ENTER-OPEN_CODECOLLAB-f2f2f2?style=for-the-badge&labelColor=0a0a0a&color=f2f2f2)](https://github.com/wxrmz/Codecollab)
-
----
-
-### `> 02 / BANYAMORE`
-
-> Responsive business website with live availability and online booking.
-
-```text
-+-----------+        +----------------+        +---------------+
-|  VISITOR  | -----> | NEXT.JS WEBSITE| -----> | YCLIENTS API  |
-+-----------+        +-------+--------+        +-------+-------+
-                            |                         |
-                  services / gallery          slots / booking
-```
-
-`[ RESPONSIVE UI ]` `[ AVAILABILITY CALENDAR ]` `[ API INTEGRATION ]` `[ ADMIN AREA ]`
-
-**STACK** &nbsp; `Next.js` `React` `TypeScript` `Tailwind CSS` `Framer Motion` `REST API`
-
-[![ENTER — OPEN BANYAMORE](https://img.shields.io/badge/ENTER-OPEN_BANYAMORE-f2f2f2?style=for-the-badge&labelColor=0a0a0a&color=f2f2f2)](https://github.com/wxrmz/BanyaMore1)
+<div align="center">
+  <img src="./kanaye-featured-projects.png" width="100%" alt="Kanaye featured projects: CodeCollab and BanyaMore" />
+</div>
 
 ## `[02] INSPECT TECHNOLOGY STACK`
 
